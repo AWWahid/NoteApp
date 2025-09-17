@@ -1,0 +1,6 @@
+
+
+void delete_note()
+{
+
+}
